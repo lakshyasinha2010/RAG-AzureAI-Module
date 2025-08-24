@@ -1,3 +1,4 @@
+
 """Main package for the multimodal RAG service."""
 
 __version__ = "1.0.0"
@@ -16,3 +17,4 @@ __all__ = [
     "get_settings",
     "get_logger"
 ]
+
