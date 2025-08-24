@@ -84,6 +84,7 @@ passlib[bcrypt]==1.7.4
 
 # Environment & Configuration
 python-dotenv==1.0.0
+
 cryptography==41.0.8
 python-jose[cryptography]==3.3.0
 
@@ -111,5 +112,5 @@ mypy==1.7.1
 # Utilities
 tenacity==8.2.3
 tqdm==4.66.1
-
 click==8.1.7
+
