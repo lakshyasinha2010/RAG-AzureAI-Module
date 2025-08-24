@@ -1,3 +1,4 @@
+
 """Data models for the multimodal RAG service."""
 
 from .requests import (
@@ -69,3 +70,4 @@ __all__ = [
     "MetricsResponse",
     "SuccessResponse"
 ]
+
